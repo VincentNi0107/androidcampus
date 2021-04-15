@@ -9,7 +9,10 @@ import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import com.byted.camp.todolist.MainActivity;
+import com.byted.camp.todolist.NoteActivity;
 import com.byted.camp.todolist.NoteOperator;
 import com.byted.camp.todolist.R;
 import com.byted.camp.todolist.beans.Note;
