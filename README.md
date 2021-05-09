@@ -31,3 +31,7 @@ Fragment&动画
 ### Homework7
 
 图片与视频摄制
+
+### Final Project-mini-Tiktok
+
+https://github.com/mini-tiktok/bytedance-camp-project
